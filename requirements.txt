@@ -1,0 +1,4 @@
+beautifulsoup4==4.14.2
+colorlog==6.10.1
+pandas==2.3.3
+Requests==2.32.5
